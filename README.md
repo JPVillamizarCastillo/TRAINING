@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan pablo Villamizar Castillo</h1>
 <h3 align="center">I'm passionate for Data Analysis</h3>
 
-- 🔭 I’m currently working on **Storytelling**
+- 🔭 I’m currently working on **Bussines Inteligence and Data Analysis**
 
 - 🌱 I’m currently learning **About Neuronal Networks and NLP, in addition, i'm learning about AWS**
 
