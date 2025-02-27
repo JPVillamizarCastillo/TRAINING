@@ -27,4 +27,4 @@ The primary goal of this project is to provide actionable insights into customer
 ## Contents
 
 * **README.md:** This document, providing an overview of the project.
-* [Base de datos](ruta/al/archivo)
+* [Base de datos](No supervised learning/Marketing Campaing/Base de datos.csv)
