@@ -1,7 +1,5 @@
 # Clustering de Pasajeros de Aerolínea
 
-**(Optional: Include a brief, engaging image or graphic related to airlines or clustering)**
-
 ## Contexto
 
 Este proyecto se centra en el análisis de clusters de pasajeros de aerolíneas, utilizando datos de su programa de viajero frecuente. El objetivo es identificar grupos de pasajeros con características similares para personalizar ofertas de millas y mejorar la lealtad del cliente.
