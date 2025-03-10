@@ -1,6 +1,6 @@
 # Estimación de Pérdidas y Análisis de Riesgo
 
-Estos proyecto en Collab tiene como objetivo realizar una estimación de pérdidas y un análisis de riesgo exhaustivo para determinadas situaciones, utilizando técnicas estadísticas avanzadas y métodos de simulación.
+Estos proyecto en Collab tienen como objetivo realizar una estimación de pérdidas y un análisis de riesgo exhaustivo para determinadas situaciones, utilizando técnicas estadísticas avanzadas y métodos de simulación.
 
 ## Técnicas Utilizadas
 
