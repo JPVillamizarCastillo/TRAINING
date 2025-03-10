@@ -1,43 +1,22 @@
-## Tabla de contenido
-1.  [¿Qué es el Riesgo Operacional?](#qué-es-el-riesgo-operacional)
-2.  [Eventos Asociados al Riesgo Operacional (Basilea II)](#eventos-asociados-al-riesgo-operacional-basilea-ii)
-3.  [Los Tres Pilares de Basilea II](#los-tres-pilares-de-basilea-ii)
-    * [Pilar 1: Requerimiento Mínimo de Capital](#pilar-1-requerimiento-mínimo-de-capital)
-        * [Métodos de Cálculo del Capital Regulatorio](#métodos-de-cálculo-del-capital-regulatorio)
-    * [Pilar 2: Principios de Supervisión Básicos](#pilar-2-principios-de-supervisión-básicos)
-    * [Pilar 3: Disciplina de Mercado](#pilar-3-disciplina-de-mercado)
-  
-## ¿Qué es el Riesgo Operacional?
-El riesgo operacional se define como la posibilidad de pérdidas derivadas de la inadecuación o fallas en los procesos internos, el personal, los sistemas, o por eventos externos.
+# Estimación de Pérdidas y Análisis de Riesgo
 
-## Eventos Asociados al Riesgo Operacional (Basilea II)
-Basilea II identifica siete eventos clave asociados al riesgo operacional:
--   **Fraude Interno:** Actos fraudulentos por parte de empleados.
--   **Fraude Externo:** Actos fraudulentos por terceros.
--   **Relaciones Laborales:** Incidentes relacionados con la legislación laboral y la seguridad en el trabajo.
--   **Clientes:** Problemas derivados de la relación con los clientes.
--   **Daños a Activos Fijos:** Pérdidas por daños a bienes físicos.
--   **Daños Tecnológicos:** Fallos en sistemas y tecnología.
--   **Ejecución y Administración de Procesos:** Errores en la ejecución de procesos.
+Estos proyecto en Collab tiene como objetivo realizar una estimación de pérdidas y un análisis de riesgo exhaustivo para determinadas situaciones, utilizando técnicas estadísticas avanzadas y métodos de simulación.
 
-## Los Tres Pilares de Basilea II
+## Técnicas Utilizadas
 
-Basilea II se estructura en tres pilares fundamentales:
+* **Estimación de Pérdidas mediante la Distribución de las Pérdidas (LDA):** Se calcularán las pérdidas esperadas combinando la frecuencia y la severidad de los eventos de riesgo.
+* **Caracterización Primaria del Riesgo:** Se analizarán las medidas de tendencia central y dispersión (tamaño de la muestra, media, varianza, coeficiente de asimetría y coeficiente de curtosis) para comprender la naturaleza del riesgo.
+* **Caracterización Empírica de las Distribuciones de Pérdidas:** Se determinará el tipo de distribución de pérdidas y se calculará el error de la muestra para evaluar la precisión de los datos.
+* **Muestreo de la Distribución Agregada de Pérdidas por Montecarlo:** Se simulará la distribución agregada de pérdidas utilizando el método de Montecarlo, con un nivel de confianza del 99,9%, y se compararán las medidas de tendencia central antes y después del muestreo.
+* **Integración de Bases de Datos con la Teoría de la Credibilidad:** Se integrarán las bases de datos de las fincas utilizando la Teoría de la Credibilidad, tomando como referencia la base de datos de observaciones.
+* **Medición de la Confiabilidad en la Integración:** Se evaluará la confiabilidad de la integración para cada finca.
 
-### Pilar 1: Requerimiento Mínimo de Capital
+## Requisitos
 
-Este pilar establece la necesidad de que las entidades financieras mantengan un capital mínimo para cubrir pérdidas por riesgo operacional.
+* Python 3.x
+* Librerías: pandas, numpy, scipy, statsmodels, openpyxl
 
-#### Métodos de Cálculo del Capital Regulatorio
 
--   **BIA (Basic Indicator Approach) / Método del Indicador Básico:** Cálculo basado en un porcentaje fijo de los ingresos brutos.
--   **SA (Standardized Approach) / Método Estandarizado:** División de actividades en líneas de negocio con factores de riesgo asignados.
--   **AMA (Advanced Measurement Approach) / Metodologías de Medición Avanzadas:** Uso de modelos internos para estimar el capital, sujeto a aprobación regulatoria.
+## Contacto
 
-### Pilar 2: Principios de Supervisión Básicos
-
-Establece los principios para la gestión del riesgo operacional, incluyendo identificación, evaluación, control y monitoreo.
-
-### Pilar 3: Disciplina de Mercado
-
-Promueve la transparencia y divulgación de información relevante sobre el riesgo operacional.
+Si tienes alguna pregunta o comentario, no dudes en contactarnos en juanvillamizar1503@gmail.com
