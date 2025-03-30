@@ -1,9 +1,5 @@
 # Aprendizaje No Supervisado: Descubriendo Patrones Ocultos en Datos
 
-## Descripción General
-
-Este repositorio proporciona una visión general del aprendizaje no supervisado, una técnica de aprendizaje automático que permite a las computadoras aprender de datos sin etiquetas o categorías predefinidas.
-
 ## ¿Qué es el Aprendizaje No Supervisado?
 
 El aprendizaje no supervisado es una rama del aprendizaje automático que se centra en analizar y encontrar patrones en conjuntos de datos sin etiquetas. Los algoritmos de aprendizaje no supervisado exploran los datos en busca de similitudes y relaciones, agrupándolos en clústeres o identificando patrones ocultos.
