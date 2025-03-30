@@ -2,7 +2,7 @@
 
 ## Descripción General
 
-Este repositorio proporciona una visión general del aprendizaje no supervisado, una técnica de aprendizaje automático que permite a las computadoras aprender de datos sin etiquetas o categorías predefinidas. A diferencia del aprendizaje supervisado, que se enfoca en resolver problemas conocidos con datos etiquetados, el aprendizaje no supervisado busca identificar patrones y estructuras en datos sin etiquetas.
+Este repositorio proporciona una visión general del aprendizaje no supervisado, una técnica de aprendizaje automático que permite a las computadoras aprender de datos sin etiquetas o categorías predefinidas.
 
 ## ¿Qué es el Aprendizaje No Supervisado?
 
